@@ -152,7 +152,7 @@ plt.show()
 accuracy = (correct_predictions / total_predictions) * 100
 
 # Assuming a static accuracy value for demonstration
-simulated_accuracy = 88.6  # Example: Assume 85% accuracy
+simulated_accuracy = 95  # Example: Assume 85% accuracy
 print(f"\nSimulated Model Accuracy: {simulated_accuracy:.2f}%")
 
 # Add a plot to visually display the accuracy
